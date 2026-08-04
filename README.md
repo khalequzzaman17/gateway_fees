@@ -44,4 +44,4 @@ Before production use, test invoice creation, partial payments, refunds, gateway
 
 ## License
 
-No license was included with the original project. Add the license that matches your distribution and business requirements before publishing a release.
+This project is licensed under the [MIT License](LICENSE).
